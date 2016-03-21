@@ -1,7 +1,7 @@
 name: nemrod
 favicon: null
-layout_spectrum: 0.3383353261742741
-typography_spectrum: 0.19748489768244326
+layout_spectrum: 1
+typography_spectrum: 0.31071
 title: nemrod
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#00071a'
+    - '#9bdb7a'
+    - '#01400d'
+    - '#408c3c'
+    - '#20ba77'
   brandStrength: 0.6439212099649012
   lightness: 0.9481350337155163
   saturation: 0.7828640947118402
