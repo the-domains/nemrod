@@ -2,6 +2,7 @@ name: nemrod
 favicon: null
 layout_spectrum: 0.3383353261742741
 typography_spectrum: 0.19748489768244326
+title: nemrod
 cta:
   domain: null
   bucket: null
