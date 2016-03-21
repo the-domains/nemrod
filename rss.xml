@@ -4,7 +4,7 @@
         <description><![CDATA[nemrod]]></description>
         <link>https://thegrid.ai/nemrod/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 09:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 09:17:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nemrod/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fred Tinsel (fredtinsel) on about.me]]></title>
@@ -12,13 +12,6 @@
             <link>https://about.me/fredtinsel</link>
             <guid isPermaLink="false">f1747e5a-75f7-47f0-9511-c91cad1f08a6</guid>
             <pubDate>Mon, 21 Mar 2016 09:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is the title of a post</p>]]></description>
-            <link>https://thegrid.ai/nemrod/4a09d4eb-c9fa-409b-a04d-3e44724692c0/index.html</link>
-            <guid isPermaLink="false">4a09d4eb-c9fa-409b-a04d-3e44724692c0</guid>
-            <pubDate>Mon, 21 Mar 2016 08:53:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
