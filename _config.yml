@@ -1,6 +1,6 @@
 name: nemrod
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.4994
 typography_spectrum: 0.31071
 title: nemrod
 cta:
@@ -22,8 +22,8 @@ color:
     - '#01400d'
     - '#408c3c'
     - '#20ba77'
-  brandStrength: 0.6439212099649012
-  lightness: 0.9481350337155163
-  saturation: 0.7828640947118402
+  brandStrength: 0
+  lightness: 0.25
+  saturation: 0.0625
   rhythmicContrast: 0.08552305749617517
 purpose: []
